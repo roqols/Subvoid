@@ -1,0 +1,34 @@
+{
+    "Knight": {
+        "Names": [],
+        "Id": "rbxassetid://86909339773299"
+    },
+    "Guardian": {
+        "Names": [],
+        "Id": "rbxassetid://131242740041543"
+    },
+    "Archon": {
+        "Names": [],
+        "Id": "rbxassetid://120806349994412"
+    },
+    "Legend": {
+        "Names": [],
+        "Id": "rbxassetid://112829741068484"
+    },
+    "SBLC": {
+        "Names": [],
+        "Id": "rbxassetid://116118995295578"
+    },
+    "SBLA": {
+        "Names": [],
+        "Id": "rbxassetid://78461691585704"
+    },
+    "SBLS": {
+        "Names": [],
+        "Id": "rbxassetid://100691122481487"
+    },
+    "Dev": {
+        "Names": ["hacks_habbo"],
+        "Id": "rbxassetid://89961944454044"
+    }
+}
