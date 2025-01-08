@@ -12,7 +12,7 @@
         "Id": "rbxassetid://120806349994412"
     },
     "Legend": {
-        "Names": ["hacks_habbo"],
+        "Names": [],
         "Id": "rbxassetid://112829741068484"
     },
     "SBLC": {
@@ -28,7 +28,7 @@
         "Id": "rbxassetid://100691122481487"
     },
     "Dev": {
-        "Names": [],
+        "Names": ["hacks_habbo"],
         "Id": "rbxassetid://89961944454044"
     }
 }
