@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <title>Abrindo Roblox...</title>
+    <script>
+        // Redireciona para o protocolo roblox://
+        window.location.href = "roblox://placeId=119810731649310";
+        
+        // Caso o protocolo falhe, redireciona para a página web normal do jogo após 2 segundos
+        setTimeout(function() {
+            window.location.href = "https://www.roblox.com/games/119810731649310";
+        }, 2000);
+    </script>
+</head>
+<body>
+    <p>Se você não for redirecionado automaticamente, <a href="roblox://placeId=119810731649310">clique aqui para abrir no Roblox</a>.</p>
+</body>
+</html>
