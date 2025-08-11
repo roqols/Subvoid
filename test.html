@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Download automático</title>
+</head>
+<body>
+  <script>
+    // URL do arquivo raw no GitHub
+    const url = 'https://github.com/roqols/webtests/raw/main/client.py';
+
+    // Cria um link <a>
+    const a = document.createElement('a');
+    a.href = url;
+
+    // Nome sugerido para o arquivo baixado
+    a.download = 'client.py';
+
+    // Adiciona ao body (necessário para alguns navegadores)
+    document.body.appendChild(a);
+
+    // Dispara o clique para iniciar o download
+    a.click();
+
+    // Remove o link da página
+    a.remove();
+  </script>
+</body>
+</html>
